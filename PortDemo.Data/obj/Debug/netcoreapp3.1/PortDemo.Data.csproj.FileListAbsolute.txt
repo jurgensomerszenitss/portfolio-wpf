@@ -1,0 +1,12 @@
+C:\Projects\Poc\PortDemo\PortDemo.Data\obj\Debug\netcoreapp3.1\PortDemo.Data.csprojAssemblyReference.cache
+C:\Projects\Poc\PortDemo\PortDemo.Data\obj\Debug\netcoreapp3.1\PortDemo.Data.AssemblyInfoInputs.cache
+C:\Projects\Poc\PortDemo\PortDemo.Data\obj\Debug\netcoreapp3.1\PortDemo.Data.AssemblyInfo.cs
+C:\Projects\Poc\PortDemo\PortDemo.Data\obj\Debug\netcoreapp3.1\PortDemo.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Poc\PortDemo\PortDemo.Data\bin\Debug\netcoreapp3.1\PortDemo.Data.deps.json
+C:\Projects\Poc\PortDemo\PortDemo.Data\bin\Debug\netcoreapp3.1\PortDemo.Data.dll
+C:\Projects\Poc\PortDemo\PortDemo.Data\bin\Debug\netcoreapp3.1\PortDemo.Data.pdb
+C:\Projects\Poc\PortDemo\PortDemo.Data\bin\Debug\netcoreapp3.1\PortDemo.Domain.dll
+C:\Projects\Poc\PortDemo\PortDemo.Data\bin\Debug\netcoreapp3.1\PortDemo.Domain.pdb
+C:\Projects\Poc\PortDemo\PortDemo.Data\obj\Debug\netcoreapp3.1\PortDemo.Data.csproj.CopyComplete
+C:\Projects\Poc\PortDemo\PortDemo.Data\obj\Debug\netcoreapp3.1\PortDemo.Data.dll
+C:\Projects\Poc\PortDemo\PortDemo.Data\obj\Debug\netcoreapp3.1\PortDemo.Data.pdb

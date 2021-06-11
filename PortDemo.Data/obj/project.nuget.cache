@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "kpYCnQ4qP7f13TACI1RwPX9o8/98PQt4J0E+CH9SppUMzN8FkLOi2qcRYlhbI5yHSX2bqjNw0i5NNNuYE95Unw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Poc\\PortDemo\\PortDemo.Data\\PortDemo.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jurgen\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\jurgen\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\jurgen\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\jurgen\\.nuget\\packages\\simpleinjector\\5.3.0\\simpleinjector.5.3.0.nupkg.sha512",
+    "C:\\Users\\jurgen\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
+    "C:\\Users\\jurgen\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\jurgen\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
+    "C:\\Users\\jurgen\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
+    "C:\\Users\\jurgen\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\jurgen\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
